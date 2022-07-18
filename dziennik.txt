@@ -1,2 +1,3 @@
 wszystko dziala jak nalezy, ale caly czas sa inne zmiany
+Polaczenie z gitem akutalne
 
